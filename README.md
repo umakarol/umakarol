@@ -1,5 +1,5 @@
 - 👋 Olá sou a Karoline
-- 🌱 💻Atualmente trabalhando na área de marketing
+- 🌱 Atualmente trabalhando na área de marketing
 - 📚 MBA em Marketing
 - 🔎 Front-end
 
